@@ -17,6 +17,10 @@ body {
   cursor: pointer;
 }
 
+#resetButton {
+  margin-top: 130px;
+}
+
 #traffic-light {
   height: 550px;
   width: 200px;
